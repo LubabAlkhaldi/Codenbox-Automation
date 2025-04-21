@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-21T22:24:41 GMT+03:00" name="Default suite" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="8164">
+    <groups>
+    </groups>
+    <test started-at="2025-04-21T22:24:41 GMT+03:00" name="Default test" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="8164">
+      <class name="CodenBoxAutomation.CodenBoxAutomation.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:41 GMT+03:00" name="Setup" finished-at="2025-04-21T22:24:48 GMT+03:00" duration-ms="6620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="RadioButton()[pri:1, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:48 GMT+03:00" name="RadioButton" finished-at="2025-04-21T22:24:48 GMT+03:00" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButton -->
+        <test-method signature="DynamicDropdown()[pri:2, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:48 GMT+03:00" name="DynamicDropdown" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynamicDropdown -->
+        <test-method signature="StaticDropdown()[pri:3, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:49 GMT+03:00" name="StaticDropdown" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StaticDropdown -->
+        <test-method signature="Checkbox()[pri:4, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:49 GMT+03:00" name="Checkbox" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkbox -->
+      </class> <!-- CodenBoxAutomation.CodenBoxAutomation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
