@@ -5,8 +5,19 @@
     <classes>
       <class name="CodenBoxAutomation.CodenBoxAutomation.AppTest">
         <methods>
+          <include name="CalendarOpenTest"/>
+          <include name="Alert"/>
+          <include name="RadioButton"/>
+          <include name="DynamicDropdown"/>
           <include name="Checkbox"/>
           <include name="Setup"/>
+          <include name="StaticDropdown"/>
+          <include name="MouseHover"/>
+          <include name="SwitchTab"/>
+          <include name="Table"/>
+          <include name="Iframe"/>
+          <include name="HideAndShow"/>
+          <include name="EnableAndDisable"/>
         </methods>
       </class> <!-- CodenBoxAutomation.CodenBoxAutomation.AppTest -->
     </classes>

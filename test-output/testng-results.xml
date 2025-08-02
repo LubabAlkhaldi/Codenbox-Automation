@@ -1,32 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="1" total="13" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-21T22:24:41 GMT+03:00" name="Default suite" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="8164">
+  <suite started-at="2025-08-02T14:33:32 EET" name="Default suite" finished-at="2025-08-02T14:34:35 EET" duration-ms="63244">
     <groups>
     </groups>
-    <test started-at="2025-04-21T22:24:41 GMT+03:00" name="Default test" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="8164">
+    <test started-at="2025-08-02T14:33:32 EET" name="Default test" finished-at="2025-08-02T14:34:35 EET" duration-ms="63244">
       <class name="CodenBoxAutomation.CodenBoxAutomation.AppTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:41 GMT+03:00" name="Setup" finished-at="2025-04-21T22:24:48 GMT+03:00" duration-ms="6620" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:32 EET" name="Setup" finished-at="2025-08-02T14:33:44 EET" duration-ms="11624" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="RadioButton()[pri:1, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:48 GMT+03:00" name="RadioButton" finished-at="2025-04-21T22:24:48 GMT+03:00" duration-ms="111" status="PASS">
+        <test-method signature="RadioButton()[pri:1, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:44 EET" name="RadioButton" finished-at="2025-08-02T14:33:44 EET" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RadioButton -->
-        <test-method signature="DynamicDropdown()[pri:2, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:48 GMT+03:00" name="DynamicDropdown" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="1127" status="PASS">
+        <test-method signature="DynamicDropdown()[pri:2, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:44 EET" name="DynamicDropdown" finished-at="2025-08-02T14:33:45 EET" duration-ms="1121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DynamicDropdown -->
-        <test-method signature="StaticDropdown()[pri:3, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:49 GMT+03:00" name="StaticDropdown" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="118" status="PASS">
+        <test-method signature="StaticDropdown()[pri:3, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:45 EET" name="StaticDropdown" finished-at="2025-08-02T14:33:45 EET" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StaticDropdown -->
-        <test-method signature="Checkbox()[pri:4, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@640f11a1]" started-at="2025-04-21T22:24:49 GMT+03:00" name="Checkbox" finished-at="2025-04-21T22:24:49 GMT+03:00" duration-ms="143" status="PASS">
+        <test-method signature="Checkbox()[pri:4, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:45 EET" name="Checkbox" finished-at="2025-08-02T14:33:45 EET" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Checkbox -->
+        <test-method signature="SwitchTab()[pri:6, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:45 EET" name="SwitchTab" finished-at="2025-08-02T14:33:54 EET" duration-ms="9017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchTab -->
+        <test-method signature="Alert()[pri:7, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:33:54 EET" name="Alert" finished-at="2025-08-02T14:34:03 EET" duration-ms="8381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alert -->
+        <test-method signature="Table()[pri:8, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:03 EET" name="Table" finished-at="2025-08-02T14:34:03 EET" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table -->
+        <test-method signature="HideAndShow()[pri:9, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:03 EET" name="HideAndShow" finished-at="2025-08-02T14:34:07 EET" duration-ms="4145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HideAndShow -->
+        <test-method signature="EnableAndDisable()[pri:10, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:07 EET" name="EnableAndDisable" finished-at="2025-08-02T14:34:15 EET" duration-ms="8289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnableAndDisable -->
+        <test-method signature="MouseHover()[pri:11, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:15 EET" name="MouseHover" finished-at="2025-08-02T14:34:19 EET" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHover -->
+        <test-method signature="CalendarOpenTest()[pri:12, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:19 EET" name="CalendarOpenTest" finished-at="2025-08-02T14:34:23 EET" duration-ms="3230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalendarOpenTest -->
+        <test-method signature="Iframe()[pri:13, instance:CodenBoxAutomation.CodenBoxAutomation.AppTest@3a393455]" started-at="2025-08-02T14:34:23 EET" name="Iframe" finished-at="2025-08-02T14:34:35 EET" duration-ms="12558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iframe -->
       </class> <!-- CodenBoxAutomation.CodenBoxAutomation.AppTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
